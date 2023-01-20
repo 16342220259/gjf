@@ -230,11 +230,12 @@ function mryj()--任务
       gg.sleep(10000)
       Teleport({0;1;0}) 
      end
-function yjnv()--女巫拿
-jiasu(10) xaqyg() qt(57) gg.sleep(800) Teleport({96.2416000366211;38.20657592773438;-1.718523025512695})
+function yjnv()--活动
+jiasu(10)  qt(1) gg.sleep(800) Teleport({17.482812881469727;0.945996105670929;-44.410072326660156})
 
  jiasu(3) gg.sleep(5000) 
  gg.sleep(500) 
  gg.sleep(500) 
-Teleport({95.57649993896484;38.101503372192383;2.112098217010498}) 
+Teleport({17.482812881469727;0.945996105670929;-44.410072326660156})
+xaqyg()
 end
