@@ -7,68 +7,86 @@ gjfpy={
 
   sddz,
   rwdz,
-  mrrw,    ---原地任务>>> 210453397504;7521962645310668800;8389754676365911401;85899345920::最后一个偏移,    --1888✓  107,374,182,400;25D;4,294,967,296;1D::17从1D转找到有1~288D的1D地址
-  ydrwddr,    --原地任务获取
-  ydrwcd,   --原地任务修复 
-  ydgypy ,    --原地光翼>>> ✓  :l_CandleSpace_0 往前两个
-  julazuaddr,   --举蜡烛>>> ✓ CA内存
-  yclzaddr ,    --隐藏蜡烛>>> ✓
-  LightChipAddr ,   --吸光标>>> ✓
-  csaddr ,    --任意门>>> ✓
-  huazb ,   --花坐标>>> ✓  
-  Azhahua ,  --炸花>>> ✓  
-  dianhuo ,   --点蜡烛>>> ✓
-  dtaddr ,   ---地图判断>> ✓   
-  guangyiaddr ,  --吸光翼>>> ✓    
-  friendship ,   --解锁友谊>>> ✓
-  
-  daoli ,   --人物倒立+遁地>>> ✓
-  rwxzaddr ,--人物旋转
-    zldz ,   --帧率地址
-  hzdz ,  ---画质地址
-  xjdiaoxiang,--独狼献祭>>> ✓   
-  luzhiyx ,    --录制影像>>> ✓
-  
-  ---------------人物地址偏移--------
-  --[[  ]]
-dengjiaddr , --光翼数量>>> ✓
-  hyxx ,  --好友信息>>> ✓  
-  dz ,  --查询身高>>> ✓
-  nengliang,  --无限能量>>> ✓
-  zspy ,   ---坐姿  修
-
-qzdz ,  --强制动作   
-  bbdz, --背背  
-   zf , --炸房>>>
-wxyq ,  --氧气>>> ✓
-rwysaddr, --人物隐身>>> ✓
-mfdz , --魔法>>> ✓
-fjrs,  ---房间人数>>> ✓
-sxdz,  --刷新房间>>> ✓ 
-yjxzaddra, --原地先祖a*** 
-yjxzaddrb, --原地先祖b*** 
-Address_clos, --自慰衣柜>>> ✓
-zhayi , --炸翼 修
-dpaddr, --无翼>>> ✓
-yanhuadz,--烟花
-mfkg, --魔法商店>>> ✓1019
-mfkz, --商店控制
-mfjh,    --mfkz+0x10
-
-lazushuliang, --蜡烛数量>>> ✓ 
--------------- 独家偏移--------------
-ltkb2, --xa窥屏1>>> ✓
-ltkb3,  --xa窥屏2修>>> ✓
-tkfraddr, --太空飞人>>> ✓
-dxbaddr, --人物大小
-xgjaddr, --香港脚>>> ✓
-kzzladdr,  --控制重力>>> ✓
-fmtaddr, --飞毛腿>>> ✓
-ydygaddr,--原地衣柜>>> ✓ CA内存0or1
-
-smlzaddr,--睡眠粒子>>> ✓10.19
---CA内存改D类型 1改257D  待找
-
+   mrrw   , --   
+          dianhuo  , --   
+          Any_daddr   , --
+          yclzaddr    , --   
+          huazb    , --   
+          ydgypy    , --   
+          Azhahua , --  	 
+          friendship  , --  	
+          xhaddr  , --  	
+          LightChipAddr  , --  	
+          luzhikg   , --  	
+   --  Penguin     , --  	
+          daoli   , --  	
+          dtaddr , --  	
+          Putdz  , --  	
+          longzero    , --  	
+          yunaddr , --  	
+          julz , --  	
+          ktpd , --  	
+          ktdz   , --  
+          ysdz , --  	
+          dpaddr, --  	
+          lgdz, --  	
+          lzsj, --  	
+          mfdz, --  	
+          zspy, --  	
+          zhayi, --  	
+          lazushuliang, --  	
+          yanhuadz, --  	
+          wxyq, --  	
+          nengliang, --  	
+          dataddr, --  	
+          Address_clos, --  	
+          wardrobe, --  	
+          zhongli, --  	
+          dengjiaddr, --  
+          dxbaddr, --  	
+          dxbaddr1, --  	
+          fjrs, --  	
+          sxdz, --  	
+          hyjc, --  	
+          hyxx, --  	
+          zf, --  	
+          mfkg, --  	
+          mfkz, --  	
+          mfjh, --  	
+          XZDZ, --  	
+          ygdz, --  
+          uidz, -- 
+          Earphone, --  	
+          andz, --  	
+          qcst, --  	
+          wsst, --  
+          wxsf, --  ]]
+      --    youyi, --  
+          kp1, --  
+          ltkb2, --  
+          ltkb3, --  
+          yedpy, --  
+          qfqdfz, --  
+          xacq, --  
+          zzbc, --  
+          shuisp, --  
+          guangaddr, --  
+          rwpzz, --  
+          huabx, --  
+          cao, --  
+          dogshin, --  
+          zhdxaddr, --  
+          hjps, --  
+          cjty, --  
+          dzsja, --  
+          dzsjb, --  
+          gfs, --  
+          xsxh, --  
+          hxjs, --  
+          wxsj, --  
+          xadh, --  
+          dpfg, --  
+          xjdiaoxiang, --  
 
 
 ------xa偏移-------
@@ -109,69 +127,87 @@ gjfpymz={
 
   "sddz",
   "rwdz",
-  "mrrw"   ,  ---原地任务>>> 210453397504;7521962645310668800;8389754676365911401;85899345920::最后一个偏移"   ,    --1888✓  107,374,182,400;25D;4,294,967,296;1D::17从1D转找到有1~288D的1D地址
-  "ydrwddr"   , ---原地任务获取
-  "ydrwcd"   ,  ----原地任务修复 
-  "ydgypy "   ,   ----原地光翼>>> ✓  :l_CandleSpace_0 往前两个
-  "julazuaddr"   , ---举蜡烛>>> ✓ CA内存
-  "yclzaddr "   ,  ---隐藏蜡烛>>> ✓
-  "LightChipAddr "   , ---吸光标>>> ✓
-  "csaddr "   ,    ---任意门>>> ✓
-  "huazb "   ,    --花坐标>>> ✓  
-  "Azhahua "   ,  --炸花>>> ✓  
-  "dianhuo "   ,  ---点蜡烛>>> ✓
-  "dtaddr "   ,    ----地图判断>> ✓   
-  "guangyiaddr "   ,   ---吸光翼>>> ✓    
-  "friendship "   ,  ---解锁友谊>>> ✓
-  
-  "daoli "   ,   ---人物倒立+遁地>>> ✓
-  "rwxzaddr "   ,  ---人物旋转
-    "zldz "   ,   ---帧率地址
-  "hzdz "   ,   ----画质地址
-  "xjdiaoxiang"   , ---独狼献祭>>> ✓   
-  "luzhiyx "   ,    ---录制影像>>> ✓
-  
-  ---------------人物地址偏移--------
-  --[[  ]]
-"dengjiaddr "   ,  ---光翼数量>>> ✓
-  "hyxx "   ,  ---好友信息>>> ✓  
-  "dz "   , ---查询身高>>> ✓
-  "nengliang"   , ---无限能量>>> ✓
-  "zspy "   ,   ---坐姿  修
-
-"qzdz "   ,  ---强制动作   
-  "bbdz"   ,   ---背背  
-   "zf "   ,    ----炸房>>>
-"wxyq "   ,    --氧气>>> ✓
-"rwysaddr"   ,   --人物隐身>>> ✓
-"mfdz "   ,    ---魔法>>> ✓
-"fjrs"   ,    ---房间人数>>> ✓
-"sxdz"   ,    ----刷新房间>>> ✓ 
-"yjxzaddra"   ,    ----原地先祖a*** 
-"yjxzaddrb"   ,    ---原地先祖b*** 
-"Address_clos"   ,   ---自慰衣柜>>> ✓
-"zhayi "   ,    ----炸翼 修
-"dpaddr"   ,    -----无翼>>> ✓
-"yanhuadz"   ,    ----烟花
-"mfkg"   ,    ----魔法商店>>> ✓1019
-"mfkz"   ,    ----商店控制
-"mfjh"   ,    --mfkz+0x10
-
-"lazushuliang"   ,    ----蜡烛数量>>> ✓ 
--------------- 独家偏移--------------
-"ltkb2"   ,    ----xa窥屏1>>> ✓
-"ltkb3"   ,    -----xa窥屏2修>>> ✓
-"tkfraddr"   ,    ---太空飞人>>> ✓
-"dxbaddr"   ,    -----人物大小
-"xgjaddr"   ,    ----香港脚>>> ✓
-"kzzladdr"   ,    -----控制重力>>> ✓
-"fmtaddr"   ,    -----飞毛腿>>> ✓
-"ydygaddr"   ,    --原地衣柜>>> ✓ CA内存0or1
-
-"smlzaddr"   ,    -----睡眠粒子>>> ✓10.19
---CA内存改D类型 1改257D  待找
-
-
+  'mrrw'   , --   
+          'dianhuo'  , --   
+          'Any_daddr'   , --
+          'yclzaddr'    , --   
+          'huazb'    , --   
+          'ydgypy'    , --   
+          'Azhahua' , --  	 
+          'friendship'  , --  	
+          'xhaddr'  , --  	
+          'LightChipAddr'  , --  	
+          'luzhikg'   , --  	
+   --  'Penguin'     , --  	
+          'daoli'   , --  	
+          'dtaddr' , --  	
+          'Putdz'  , --  	
+          'longzero'    , --  	
+          'yunaddr' , --  	
+          'julz' , --  	
+          'ktpd' , --  	
+          'ktdz'   , --  
+          'ysdz' , --  	
+          'dpaddr', --  	
+          'lgdz', --  	
+          'lzsj', --  	
+          'mfdz', --  	
+          'zspy', --  	
+          'zhayi', --  	
+          'lazushuliang', --  	
+          'yanhuadz', --  	
+          'wxyq', --  	
+          'nengliang', --  	       
+          'dataddr', 	
+          'Address_clos', 	
+          'dengjiaddr', 	
+          'wardrobe', --  	
+          'zhongli', --  	
+          'dengjiaddr', --  
+          'dxbaddr', --  	
+          'dxbaddr1', --  	
+          'fjrs', --  	
+          'sxdz', --  	
+          'hyjc', --  	
+          'hyxx', --  	
+          'zf', --  	
+          'mfkg', --  	
+          'mfkz', --  	
+          'mfjh', --  	
+          'XZDZ', --  	
+          'ygdz', --  
+          'uidz', -- 
+          'Earphone', --  	
+          'andz', --  	
+          'qcst', --  	
+          'wsst', --  
+          'wxsf', --  ]]
+      --    'youyi', --  
+          'kp1', --  
+          'ltkb2', --  
+          'ltkb3', --  
+          'yedpy', --  
+          'qfqdfz', --  
+          'xacq', --  
+          'zzbc', --  
+          'shuisp', --  
+          'guangaddr', --  
+          'rwpzz', --  
+          'huabx', --  
+          'cao', --  
+          'dogshin', --  
+          'zhdxaddr', --  
+          'hjps', --  
+          'cjty', --  
+          'dzsja', --  
+          'dzsjb', --  
+          'gfs', --  
+          'xsxh', --  
+          'hxjs', --  
+          'wxsj', --  
+          'xadh', --  
+          'dpfg', --  
+          'xjdiaoxiang', -- 
 
 ------xa偏移-------
 
