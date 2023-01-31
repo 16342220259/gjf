@@ -138,7 +138,7 @@ mrrw =  sddz+0x22904C
  LightChipAddr =  sddz+0x21C2ECC
  luzhikg =  sddz+0x22E2E48
  daoli =  sddz+0x4945C0
- dtaddr =  sddz+0x22E9DB0
+
  Putdz =  sddz+0x306F2C
  longzero =  sddz+0x105EB58
  yunaddr =  sddz+0x15837FC
