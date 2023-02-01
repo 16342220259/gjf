@@ -126,7 +126,7 @@ wshsaddr=so+0x7CC0D0--无视海水>>> ✓
 --特征码2,172,709,610,637,574,144 XA Q类型 本地址 改506630144D
 
 
-mrrw =  sddz+0x22904C
+
  dianhuo =  sddz+0x16364DC
  Any_daddr =  sddz+0x160F818
  yclzaddr =  sddz+0x1B7D07C
