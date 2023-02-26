@@ -8,6 +8,7 @@ sooo=gg.getRangesList('libBootloader.so:bss')[1].start  --cb
 rw1 = sooo
 rw2=addrjump(rw1,0x8d4b8)+0x10
 rw3=addrjump(rw2,0)+0x30
+rw4=addrjump(rw3,0)+0x1ec
 rwdz=rw4
 
 soo=so+0x15b1000--cd
