@@ -58,7 +58,7 @@ qzdz = rwdz - 0x247F4--强制动作
    zf = rwdz - 0x21A96C--炸房>>>
 wxyq = rwdz+0x522C--氧气>>> ✓
 rwysaddr=rwdz+0x1EC0--人物隐身>>> ✓
-mfdz = rwdz + 0x11384--魔法>>> ✓
+mfdz = rwdz + 0x11384 + 0x110--魔法>>> ✓
 fjrs=rwdz-0x23A35C+0x12B20---房间人数>>> ✓
 sxdz=fjrs+0xE8F4--刷新房间>>> ✓ 
 yjxzaddra=rwdz-0x60d6c--原地先祖a*** 
@@ -149,7 +149,7 @@ wshsaddr=so+0x7CC0D0--无视海水>>> ✓
  dpaddr = rwdz+0x52A4
  lgdz = rwdz+0x61A0
  lzsj = rwdz+0x11C4A4C
- mfdz = rwdz+0x11384
+ 
  zspy = rwdz+0x344C
  zhayi = rwdz+0x530C
  lazushuliang = rwdz+0x9944
