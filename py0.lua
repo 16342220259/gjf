@@ -50,7 +50,7 @@ xjdiaoxiang= ydgypy + 0xE28--独狼献祭>>> ✓
   --[[  ]]
   hyxx = rwdz - 0x1F123C--好友信息>>> ✓  
   dz = rwdz - 0x3574--查询身高>>> ✓
-  nengliang=rwdz+0x5240--无限能量>>> ✓
+  nengliang=rwdz+0x5370--无限能量>>> ✓
   zspy = rwdz + 0x345C---坐姿  修
 
 qzdz = rwdz - 0x247F4--强制动作   
@@ -154,7 +154,7 @@ wshsaddr=so+0x7CC0D0--无视海水>>> ✓
  lazushuliang = rwdz+0x9944
  yanhuadz = rwdz+0x87CC +0xBC
  wxyq = rwdz+0x5264
- nengliang = rwdz+0x5250
+
  dataddr = rwdz+0x86A4
  Address_clos = rwdz+0x714C
  dengjiaddr = rwdz+0x11E78
