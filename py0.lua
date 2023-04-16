@@ -51,7 +51,7 @@ xjdiaoxiang= ydgypy + 0xE28--独狼献祭>>> ✓
   hyxx = rwdz - 0x1F123C--好友信息>>> ✓  
   dz = rwdz - 0x3574--查询身高>>> ✓
   nengliang=rwdz+0x5240--无限能量>>> ✓
-  zspy = rwdz + 0x340C---坐姿  修
+  zspy = rwdz + 0x345C---坐姿  修
 
 qzdz = rwdz - 0x247F4--强制动作   
   bbdz=rwdz-0x84--背背  
@@ -149,8 +149,7 @@ wshsaddr=so+0x7CC0D0--无视海水>>> ✓
  dpaddr = rwdz+0x52A4
  lgdz = rwdz+0x61A0
  lzsj = rwdz+0x11C4A4C
- 
- zspy = rwdz+0x344C
+
  zhayi = rwdz+0x530C
  lazushuliang = rwdz+0x9944
  yanhuadz = rwdz+0x87CC +0xBC
