@@ -19,7 +19,7 @@ gg.addListItems({{address=sddz,flags=16,name='速度'}})
 ------------核心偏移---------
 csaddr = sddz+ 0x160f8e8--任意门>>> ✓
 dtaddr = sddz + 0x22e9db0----地图判断>> ✓   
-ydgypy = sddz + 0x1b4b8ec ---原地光翼>>> ✓  :l_CandleSpace_0 往前两个
+ydgypy = sddz + 0x1b4b8ec + 0x1acdc ---原地光翼>>> ✓  :l_CandleSpace_0 往前两个
 dengjiaddr = rwdz-0x22934--光翼数量>>> ✓
 mrrw=sddz + 0x22904c---原地任务>>>   107,374,182,400;25D;4,294,967,296;1D::17从1D转找到有1~288D的1D地址
 xjdiaoxiang= ydgypy + 0xE28--独狼献祭>>> ✓   
