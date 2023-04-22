@@ -164,7 +164,7 @@ wshsaddr=so+0x7CC0D0--无视海水>>> ✓
 
  dataddr = rwdz+0x86A4
  Address_clos = rwdz+0x714C
- dengjiaddr = rwdz+0x11E78
+ dengjiaddr = rwdz+0x11E78-0x30
  wardrobe = rwdz-0x22934
  zhongli = rwdz-0x2FC4
  dengjiaddr = rwdz+0x8684
