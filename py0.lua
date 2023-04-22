@@ -1,8 +1,10 @@
 
 function PY0()
 --------指针
-so=gg.getRangesList('libBootloader.so')[1].start
-gg.addListItems({{address=gg.getRangesList('libBootloader.so')[1].start,flags=32,name='so'}})
+
+so = gg.getRangesList('libBootloader.so')[1].start
+gg.addListItems({{address = so, flags = 32, name = 'so'}})
+
 sooo=gg.getRangesList('libBootloader.so:bss')[1].start  --cb  
 
 rw1 = sooo
@@ -18,7 +20,9 @@ gg.addListItems({{address=sddz,flags=16,name='速度'}})
 
 ------------核心偏移---------
 csaddr = sddz  + 0x15fa4e4--任意门>>> ✓
-dtaddr = sddz + 0x21e805c ---地图判断>> ✓   
+  
+dtaddr = sddz + 0x21e805c + 0xf580---地图判断>> ✓   
+  csaddr = dtaddr  - 0xbedb78  --任意门>>> ✓
 ydgypy = sddz + 0x1b581c8 ---原地光翼>>> ✓  :l_CandleSpace_0 往前两个
 dengjiaddr = rwdz-0x22934--光翼数量>>> ✓
 mrrw=sddz + 0x246528 ---原地任务>>>   107,374,182,400;25D;4,294,967,296;1D::17从1D转找到有1~288D的1D地址
