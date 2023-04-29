@@ -66,6 +66,7 @@ qzdz = rwdz - 0x247F4--强制动作
 wxyq = rwdz+0x522C--氧气>>> ✓
 rwysaddr=rwdz+0x1EC0--人物隐身>>> ✓
 mfdz = rwdz + 0x115A4--魔法>>> ✓
+  mfsldz = mfdz + 0x2660--魔法>>> ✓
 fjrs=rwdz-0x23A35C+0x12B20---房间人数>>> ✓
 sxdz=fjrs+0xE8F4--刷新房间>>> ✓ 
 yjxzaddra=rwdz-0x60d6c--原地先祖a*** 
