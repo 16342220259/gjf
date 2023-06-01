@@ -24,7 +24,7 @@ gg.addListItems({{address=sddz,flags=16,name='速度'}})
 ------------核心偏移---------
 csaddr = sddz  + 0x1705d54--任意门>>> ✓
   
-dtaddr = sddz + 0x21e805c + 0xf580---地图判断>> ✓   
+dtaddr = sddz + 0x230809c---地图判断>> ✓   
   csaddr = dtaddr  - 0xbedb78  --任意门>>> ✓
 ydgypy = sddz + 0x1B4ca6c+0x1acdc---原地光翼>>> ✓  :l_CandleSpace_0 往前两个
 dengjiaddr = rwdz - 0x22946--光翼数量>>> ✓
