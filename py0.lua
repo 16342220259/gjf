@@ -29,7 +29,7 @@ dtaddr = sddz + 0x230809c---地图判断>> ✓
 ydgypy = sddz + 0x1c6fb58---原地光翼>>> ✓  :l_CandleSpace_0 往前两个
   ydgyhqa = ydgypy + 0x58
   ydgyhqb = ydgypy + 0x88
-dengjiaddr = rwdz - 0x22946--光翼数量>>> ✓
+dengjiaddr = rwdz - 0x22ca4--光翼数量>>> ✓
 mrrw=sddz + 0x256d68 ---原地任务>>>   107,374,182,400;25D;4,294,967,296;1D::17从1D转找到有1~288D的1D地址
 xjdiaoxiang= ydgypy + 0xE28--独狼献祭>>> ✓   
 
@@ -59,7 +59,7 @@ xjdiaoxiang= ydgypy + 0xE28--独狼献祭>>> ✓
   --[[  ]]
   hyxx = rwdz - 0x1F123C--好友信息>>> ✓  
   dz = rwdz - 0x3574--查询身高>>> ✓
-  nengliang=rwdz+0x5370--无限能量>>> ✓
+  nengliang=rwdz+0x53b0--无限能量>>> ✓
   zspy = rwdz + 0x345C---坐姿  修
 
 qzdz = rwdz - 0x247F4--强制动作   
