@@ -22,7 +22,8 @@ sddz=addrjump(soo,0x14ca0)+0x1c8
 gg.addListItems({{address=sddz,flags=16,name='速度'}})
 
 ------------核心偏移---------
-csaddr = sddz  + 0x17063D4 --任意门>>> ✓
+Any_daddr =  sddz+0x17063D4
+  csaddr = sddz  + 0x17063D4 --任意门>>> ✓
   
 dtaddr = sddz + 0x230809c ---地图判断>> ✓   
 
