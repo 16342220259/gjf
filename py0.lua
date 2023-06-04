@@ -56,9 +56,25 @@ xjdiaoxiang= ydgypy + 0x1010--独狼献祭>>> ✓
     zldz = sddz-0x70--帧率地址
   hzdz = sddz-0x44--画质地址
   luzhiyx = sddz + 0x20CFB20--录制影像>>> ✓
+  mrrw =  sddz+0x256D68
+ dianhuo =  sddz+0x174DE38
+ Any_daddr =  sddz+0x17063D4
+ yclzaddr =  sddz+0x1CA13B8
+ huazb =  sddz+0x252D174
+ ydgypy =  sddz+0x1C6FB58
+ xjdiaoxiang =  sddz+0x1C70B68
+ Azhahua =  sddz+0x252D174
+ daoli =  sddz+0x4C46BC
+ dtaddr =  sddz+0x230809C
+ qxbei =  sddz+0x20D4B10
+ longzero =  sddz+0x165B0BC
+ kp1 =  sddz+0x2188C5C
+
   
   ---------------人物地址偏移--------
   --[[  ]]
+ luzhikg = rwdz-0x3A3B6C4 --录制
+
   hyxx = rwdz - 0x1F123C--好友信息>>> ✓  
   dz = rwdz - 0x3574--查询身高>>> ✓
   nengliang=rwdz+0x53b0--无限能量>>> ✓
@@ -104,6 +120,26 @@ ydygaddr=rwdz+0x11880E2B--原地衣柜>>> ✓ CA内存0or1
 smlzaddr=rwdz+0xA0E4-0x870--睡眠粒子>>> ✓10.19
 --CA内存改D类型 1改257D  待找
 
+ Putdz = rwdz+0x7438
+ dpaddr = rwdz+0x5408
+ mfdz = rwdz+0x114C4
+ zspy = rwdz+0x348C
+ zwlz = rwdz+0x9CB4
+ yanhuadz = rwdz+0x89A8
+ nengliang = rwdz+0x53B0
+ wxyq = rwdz+0x53CC
+ zhayi = rwdz+0x547C
+ Address_clos = rwdz+0x741C
+ wardrobe = rwdz+0x120CBF8
+ dengjiaddr = rwdz-0x22CA4
+ km_dz = rwdz-0x4C5A4
+ dxbaddr = rwdz-0x2FF4
+ fjrs = rwdz-0x23ABBC
+ sxdz = rwdz-0x22C2C8
+ hyxx = rwdz-0x1FB24C
+ friendsl = rwdz-0x1FB24C
+ mfkg = rwdz+0x11A4F7C
+ XZDZ = rwdz-0x2270FC
 
 
 ------xa偏移-------
@@ -137,7 +173,16 @@ wxhxaddr=so+0x6CD070--无限滑行>>> ✓
 wshsaddr=so+0x7CC0D0--无视海水>>> ✓
 --特征码2,172,709,610,637,574,144 XA Q类型 本地址 改506630144D
 goupa = so+0x5E0808 --狗爬 d 505873376 改 505712640
-  
+   kp2 = so+0x65C068
+ kp3 = so+0x65C06C
+ kp4 = so+0x65C070
+ qygdz = so+0x457447
+ dzsjdz = so+0xB70F2C
+ xsxh = so+0x53B4CC
+ erjdz = so+0x5B2BB8
+
+ hyspy = so+0x9245BC
+
 
 
   
