@@ -23,7 +23,7 @@ gjfpy={
           dtaddr , --  	
           Putdz  , --  	
           longzero    , --  	
-          yunaddr , --  	
+	
           julz , --  	
           ktpd , --  	
           ktdz   , --  
@@ -143,7 +143,6 @@ gjfpymz={
           'dtaddr' , --  	
           'Putdz'  , --  	
           'longzero'    , --  	
-          'yunaddr' , --  	
           'julz' , --  	
           'ktpd' , --  	
           'ktdz'   , --  
