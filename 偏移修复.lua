@@ -15,7 +15,7 @@ gjfpy={
           ydgypy    , --   
           Azhahua , --  	 
           friendship  , --  	
-          xhaddr  , --  	
+          goupa  , --  	
           LightChipAddr  , --  	
           luzhikg   , --  	
    --  Penguin     , --  	
@@ -135,7 +135,7 @@ gjfpymz={
           'ydgypy'    , --   
           'Azhahua' , --  	 
           'friendship'  , --  	
-          'xhaddr'  , --  	
+          'goupa'  , --  	
           'LightChipAddr'  , --  	
           'luzhikg'   , --  	
    --  'Penguin'     , --  	
