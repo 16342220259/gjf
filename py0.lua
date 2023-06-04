@@ -31,7 +31,7 @@ ydgypy = sddz + 0x1c6fb58---原地光翼>>> ✓  :l_CandleSpace_0 往前两个
   ydgyhqb = ydgypy + 0x88
 dengjiaddr = rwdz - 0x22ca4--光翼数量>>> ✓
 mrrw=sddz + 0x256d68 ---原地任务>>>   107,374,182,400;25D;4,294,967,296;1D::17从1D转找到有1~288D的1D地址
-xjdiaoxiang= ydgypy + 0xE28--独狼献祭>>> ✓   
+xjdiaoxiang= ydgypy + 0x1010--独狼献祭>>> ✓   
 
 ------------速度地址偏移---------
 
