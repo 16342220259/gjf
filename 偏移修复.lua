@@ -17,13 +17,11 @@ gjfpy={
           friendship  , --  	
           goupa  , --  	
           LightChipAddr  , --  	
-          luzhiyx   , --  	
-   --  Penguin     , --  	
+          luzhiyx   , --  
           daoli   , --  	
           dtaddr , --  	
           Putdz  , --  	
-          longzero    , --  	
-	
+          longzero, --  	
           julz , --  	
           ktpd , --  	
           ktdz   , --  
