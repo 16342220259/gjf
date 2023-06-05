@@ -73,7 +73,7 @@ xjdiaoxiang= ydgypy + 0x1010--独狼献祭>>> ✓
   
   ---------------人物地址偏移--------
   --[[  ]]
- luzhikg = rwdz-0x3A3B6C4 --录制
+ luzhiyx = rwdz-0x3A3B6C4 --录制
 
   hyxx = rwdz - 0x1F123C--好友信息>>> ✓  
   dz = rwdz - 0x3574--查询身高>>> ✓
