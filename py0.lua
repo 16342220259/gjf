@@ -23,8 +23,8 @@ gg.addListItems({{address=sddz,flags=16,name='速度'}})
 
 ------------核心偏移---------
 
-  csaddr = sddz  + 0x17063D4 --任意门>>> ✓
-  Any_daddr =  sddz + 0x17063D4 - 0xd0
+  csaddr = sddz  + 0x17063D4-0xd0 --任意门>>> ✓
+  Any_daddr =  sddz + 0x17063D4-0xd0
   
 dtaddr = sddz + 0x230809c ---地图判断>> ✓   
 
@@ -58,7 +58,7 @@ xjdiaoxiang= ydgypy + 0x1010--独狼献祭>>> ✓
   luzhiyx = sddz + 0x20CFB20--录制影像>>> ✓
   mrrw =  sddz+0x256D68
  dianhuo =  sddz+0x174DE38
- Any_daddr =  sddz+0x17063D4
+
  yclzaddr =  sddz+0x1CA13B8
  huazb =  sddz+0x252D174
  ydgypy =  sddz+0x1C6FB58
