@@ -17,7 +17,7 @@ gjfpy={
           friendship  , --  	
           goupa  , --  	
           LightChipAddr  , --  	
-          luzhikg   , --  	
+          luzhiyx   , --  	
    --  Penguin     , --  	
           daoli   , --  	
           dtaddr , --  	
