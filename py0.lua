@@ -1,7 +1,7 @@
 
 function PY0()
 --------指针
-
+ 
 so = gg.getRangesList('libBootloader.so')[1].start
 gg.addListItems({{address = so, flags = 32, name = 'so'}})
 
