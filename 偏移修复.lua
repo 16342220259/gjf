@@ -5,86 +5,85 @@ function gjfpy()
 gjfpy={
 ------------速度地址偏移---------
 
-  sddz,
-  rwdz,
-   mrrw   , --   
+    	sddz   , -- 	 
+          rwdz   , -- 
+          mrrw   , --   
           dianhuo  , --   
-          Any_daddr   , --
+          csaddr   , --
           yclzaddr    , --   
           huazb    , --   
           ydgypy    , --   
+          xjdiaoxiang , --  	 
           Azhahua , --  	 
-          friendship  , --  	
-          goupa  , --  	
-          LightChipAddr  , --  	
-          luzhiyx   , --  
+          luzhiyx   , --  	
           daoli   , --  	
           dtaddr , --  	
-          Putdz  , --  	
-          longzero, --  	
-          julz , --  	
-          ktpd , --  	
-          ktdz   , --  
-          ysdz , --  	
-          dpaddr, --  	
-          lgdz, --  	
-          lzsj, --  	
-          mfdz, --  	
-          zspy, --  	
-          zhayi, --  	
-          lazushuliang, --  	
-          yanhuadz, --  	
-          wxyq, --  	
-          nengliang, --  	
-          dataddr, --  	
-          Address_clos, --  	
-          wardrobe, --  	
-          zhongli, --  	
-          dengjiaddr, --  
-          dxbaddr, --  	
-          dxbaddr1, --  	
-          fjrs, --  	
-          sxdz, --  	
-          hyjc, --  	
-          hyxx, --  	
-          zf, --  	
-          mfkg, --  	
-          mfkz, --  	
-          mfjh, --  	
-          XZDZ, --  	
-          ygdz, --  
-          uidz, -- 
-          Earphone, --  	
-          andz, --  	
-          qcst, --  	
-          wsst, --  
-          wxsf, --  ]]
-      --    youyi, --  
-          kp1, --  
-          ltkb2, --  
-          ltkb3, --  
-          yedpy, --  
-          qfqdfz, --  
-          xacq, --  
-          zzbc, --  
-          shuisp, --  
-          guangaddr, --  
-          rwpzz, --  
-          huabx, --  
-          cao, --  
-          dogshin, --  
-          zhdxaddr, --  
-          hjps, --  
-          cjty, --  
-          dzsja, --  
-          dzsjb, --  
-          gfs, --  
-          xsxh, --  
-          hxjs, --  
-          wxsj, --  
-          xadh, --  
-          dpfg, --  
-          xjdiaoxiang, --  
+          qxbei  , --  	
+          longzero    ,--
+          Putdz  , --
+          dpaddr ,
+          mfdz ,
+          zspy ,
+          zwlz ,
+          yanhuadz ,
+          nengliang ,
+          wxyq ,
+          zhayi ,
+          Address_clos ,
+          wardrobe ,
+          dengjiaddr ,
+          km_dz ,
+          dxbaddr ,
+          fjrs ,
+          sxdz ,
+          hyxx ,
+          friendsl ,
+          mfkg ,
+          XZDZ ,
+          kp1 ,
+          kp2 ,
+          kp3 ,
+          kp4 ,
+          qygdz ,
+          dzsjdz ,
+          xsxh ,
+          erjdz ,
+          goupa ,
+          hyspy ,
+          yfctpy ,
+          cjdtpy ,
+          hbxpy ,
+          jingtou ,
+          xianzuguang ,
+          ygdz ,
+          uidz ,
+          Earphone ,
+          andz ,
+          qcst ,
+          wsst ,
+          wxsf ,
+--[[          youyi ,
+          yedpy ,]]
+          qfqdfz ,
+          xacq ,
+          zzbc ,
+          shuisp ,
+          guangaddr ,
+          rwpzz ,
+          huabx ,
+          cao  ,
+          dogshin ,
+          zhdxaddr ,
+          hjps  ,
+          cjty ,
+          dzsja ,
+          dzsjb ,
+          gfs ,
+          hxjs ,
+          xadh ,
+          xaxh ,
+          dpfg,
+          
 
 
 ------xa偏移-------
@@ -122,90 +121,85 @@ wshsaddr,  ---无视海水>>> ✓
 
 gjfpymz={
 ------------速度地址偏移---------
-
-  "sddz",
-  "rwdz",
-  'mrrw'   , --   
-          'dianhuo'  , --   
-          'Any_daddr'   , --
-          'yclzaddr'    , --   
-          'huazb'    , --   
-          'ydgypy'    , --   
-          'Azhahua' , --  	 
-          'friendship'  , --  	
-          'goupa'  , --  	
-          'LightChipAddr'  , --  	
-          'luzhikg'   , --  	
-   --  'Penguin'     , --  	
-          'daoli'   , --  	
-          'dtaddr' , --  	
-          'Putdz'  , --  	
-          'longzero'    , --  	
-          'julz' , --  	
-          'ktpd' , --  	
-          'ktdz'   , --  
-          'ysdz' , --  	
-          'dpaddr', --  	
-          'lgdz', --  	
-          'lzsj', --  	
-          'mfdz', --  	
-          'zspy', --  	
-          'zhayi', --  	
-          'lazushuliang', --  	
-          'yanhuadz', --  	
-          'wxyq', --  	
-          'nengliang', --  	       
-          'dataddr', 	
-          'Address_clos', 	
-          'dengjiaddr', 	
-          'wardrobe', --  	
-          'zhongli', --  	
-          'dengjiaddr', --  
-          'dxbaddr', --  	
-          'dxbaddr1', --  	
-          'fjrs', --  	
-          'sxdz', --  	
-          'hyjc', --  	
-          'hyxx', --  	
-          'zf', --  	
-          'mfkg', --  	
-          'mfkz', --  	
-          'mfjh', --  	
-          'XZDZ', --  	
-          'ygdz', --  
-          'uidz', -- 
-          'Earphone', --  	
-          'andz', --  	
-          'qcst', --  	
-          'wsst', --  
-          'wxsf', --  ]]
-      --    'youyi', --  
-          'kp1', --  
-          'ltkb2', --  
-          'ltkb3', --  
-          'yedpy', --  
-          'qfqdfz', --  
-          'xacq', --  
-          'zzbc', --  
-          'shuisp', --  
-          'guangaddr', --  
-          'rwpzz', --  
-          'huabx', --  
-          'cao', --  
-          'dogshin', --  
-          'zhdxaddr', --  
-          'hjps', --  
-          'cjty', --  
-          'dzsja', --  
-          'dzsjb', --  
-          'gfs', --  
-          'xsxh', --  
-          'hxjs', --  
-          'wxsj', --  
-          'xadh', --  
-          'dpfg', --  
-          'xjdiaoxiang', -- 
-
+"sddz"   , -- 	 
+          "rwdz"   , -- 
+          "mrrw"   , --   
+          "dianhuo"  , --   
+          "Any_daddr"   , --
+          "yclzaddr"    , --   
+          "huazb"    , --   
+          "ydgypy"    , --   
+          "xjdiaoxiang" , --  	 
+          "Azhahua" , --  		  	
+          "luzhiyx"   , --  	
+          "daoli"   , --  	
+          "dtaddr" , --  	
+          "qxbei"  , --  	
+         "longzero"    ,--
+          "Putdz"  , --
+          "dpaddr" ,
+          "mfdz" ,
+          "zspy" ,
+          "zwlz" ,
+          "yanhuadz" ,
+          "nengliang" ,
+          "wxyq" ,
+          "zhayi" ,
+          "Address_clos" ,
+          "wardrobe" ,
+          "dengjiaddr" ,
+          "km_dz" ,
+          "dxbaddr" ,
+          "fjrs" ,
+          "sxdz" ,
+          "hyxx" ,
+          "friendsl" ,
+          "mfkg" ,
+          "XZDZ" ,
+          "kp1" ,
+          "kp2" ,
+          "kp3" ,
+          "kp4" ,
+          "qygdz" ,
+          "dzsjdz" ,
+          "xsxh" ,
+          "erjdz" ,
+          "goupa" ,
+          "hyspy" ,
+          "yfctpy" ,
+          "cjdtpy" ,
+          "hbxpy" ,
+          "jingtou" ,
+          "xianzuguang" ,
+          "ygdz" ,
+          "uidz" ,
+          "Earphone" ,
+          "andz" ,
+          "qcst" ,
+          "wsst" ,
+          "wxsf" ,
+--[[          "youyi" ,
+          "yedpy" ,]]
+          "qfqdfz" ,
+          "xacq" ,
+          "zzbc" ,
+          "shuisp" ,
+          "guangaddr" ,
+          "rwpzz" ,
+          "huabx" ,
+          "cao"  ,
+          "dogshin" ,
+          "zhdxaddr" ,
+          "hjps"  ,
+          "cjty" ,
+          "dzsja" ,
+          "dzsjb" ,
+          "gfs" ,
+          "hxjs" ,
+          "xadh" ,
+          "xaxh" ,
+          "dpfg" 
+  
 ------xa偏移-------
 
 "fasthome"   ,    -----B.LT [PC,#0x194]这个为Armx64的改成[[NOP]]  D类1409289387改-721215457 xxxx
