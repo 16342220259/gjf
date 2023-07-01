@@ -15,7 +15,7 @@ rw3=addrjump(rw2,0)+0x30
 rw4=addrjump(rw3,0)+0x22c
 rwdz=rw4
 
-soo=so+0x16ab000--cd
+soo=so+0x1699000--cd
   gg.addListItems({{address = soo, flags = 32, name = 'soo'}})
 --1015 xa-cd=13A3000 ca-cb=13FB000
 sddz=addrjump(soo,0x14ca0)+0x1c8
@@ -24,7 +24,7 @@ gg.addListItems({{address=sddz,flags=16,name='速度'}})
 ------------核心偏移---------
 
   csaddr = sddz  + 0x1705D54--任意门>>> ✓
-  Any_daddr =  sddz + 0x17063D4
+  Any_daddr =  sddz + 0x1705d54
   
 dtaddr = sddz + 0x230809c ---地图判断>> ✓   
 
