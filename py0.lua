@@ -61,11 +61,11 @@ xjdiaoxiang= ydgypy + 0x1010--独狼献祭>>> ✓
 
  yclzaddr =  sddz+0x1CA13B8
  huazb =  sddz+0x252D174
- ydgypy =  sddz+0x1C6FB58
- xjdiaoxiang =  sddz+0x1C70B68
+ 
+
  Azhahua =  sddz+0x252D174
  daoli =  sddz+0x4C46BC
- dtaddr =  sddz+0x230809C
+ 
  qxbei =  sddz+0x20D4B10
  longzero =  sddz+0x165B0BC
  kp1 =  sddz+0x2188C5C
@@ -134,7 +134,7 @@ smlzaddr=rwdz+0xA0E4-0x870--睡眠粒子>>> ✓10.19
  dengjiaddr = rwdz-0x22CA4
  km_dz = rwdz-0x4C5A4
  dxbaddr = rwdz-0x2FF4
- fjrs = rwdz-0x23ABBC
+ 
  sxdz = rwdz-0x22C2C8
  hyxx = rwdz-0x1FB24C
  friendsl = rwdz-0x1FB24C
