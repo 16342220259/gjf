@@ -10,15 +10,15 @@ sooo=gg.getRangesList('libBootloader.so:bss')[1].start  --cb
 gg.addListItems({{address = sooo, flags = 32, name = 'sooo'}})
   
 rw1 = sooo
-rw2=addrjump(rw1,0x8ffb8)+0x10
+rw2=addrjump(rw1,0x90d98)+0x10
 rw3=addrjump(rw2,0)+0x30
-rw4=addrjump(rw3,0)+0x22c
+rw4=addrjump(rw3,0)+0x24c
 rwdz=rw4
 
-soo=so+0x1699000--cd
+soo=so+0x1722000--cd
   gg.addListItems({{address = soo, flags = 32, name = 'soo'}})
 --1015 xa-cd=13A3000 ca-cb=13FB000
-sddz=addrjump(soo,0x14ca0)+0x1c8
+sddz=addrjump(soo,0x15180)+0x1c8
 gg.addListItems({{address=sddz,flags=16,name='速度'}})
 
 ------------核心偏移---------
