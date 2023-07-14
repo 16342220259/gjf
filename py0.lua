@@ -32,7 +32,7 @@ ydgypy = sddz + 0x1c84cb8---原地光翼>>> ✓  :l_CandleSpace_0 往前两个
   ydgyhqa = ydgypy + 0x58
   ydgyhqb = ydgypy + 0x88
 dengjiaddr = rwdz - 0x22ca4--光翼数量>>> ✓
-mrrw=sddz + 0x257538 +0x7d0 ---原地任务>>>   107,374,182,400;25D;4,294,967,296;1D::17从1D转找到有1~288D的1D地址
+mrrw=sddz + 0x257538 ---原地任务>>>   107,374,182,400;25D;4,294,967,296;1D::17从1D转找到有1~288D的1D地址
 xjdiaoxiang= ydgypy + 0x1010--独狼献祭>>> ✓   
 
 ------------速度地址偏移---------
@@ -56,7 +56,7 @@ xjdiaoxiang= ydgypy + 0x1010--独狼献祭>>> ✓
     zldz = sddz-0x70--帧率地址
   hzdz = sddz-0x44--画质地址
   luzhiyx = sddz + 0x20CFB20--录制影像>>> ✓
-  mrrw =  sddz+0x256D68
+
  dianhuo =  sddz+0x174DE38
 
  yclzaddr =  sddz+0x1CA13B8
