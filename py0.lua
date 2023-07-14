@@ -23,8 +23,8 @@ gg.addListItems({{address=sddz,flags=16,name='速度'}})
 
 ------------核心偏移---------
 
-  csaddr = sddz  + 0x1705D54--任意门>>> ✓
-  Any_daddr =  sddz + 0x1705d54
+  csaddr = sddz  + 0x171aef4--任意门>>> ✓
+  Any_daddr =  sddz + 0x171aef4
   
 dtaddr = sddz + 0x23405bc ---地图判断>> ✓   
 
