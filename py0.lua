@@ -187,7 +187,7 @@ goupa = so+0x5E0808 --狗爬 d 505873376 改 505712640
 
  hyspy = so+0x9245BC
 
-dtaddr = sddz + 0x23405bc ---地图判断>> ✓
+dtaddr = sddz + 0x23405bc ---地判断>> ✓
 
   
 rw = 324
