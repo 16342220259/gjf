@@ -28,7 +28,7 @@ gg.addListItems({{address=sddz,flags=16,name='速度'}})
   
 dtaddr = sddz + 0x23405bc ---地图判断>> ✓   
 
-ydgypy = sddz + 0x1c84cb8---原地光翼>>> ✓  :l_CandleSpace_0 往前两个
+ydgypy = sddz + 0x23d0988---原地光翼>>> ✓  :l_CandleSpace_0 往前两个
   ydgyhqa = ydgypy + 0x58
   ydgyhqb = ydgypy + 0x88
 dengjiaddr = rwdz - 0x22ca4--光翼数量>>> ✓
