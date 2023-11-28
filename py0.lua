@@ -196,3 +196,18 @@ rw = 325
  -- Teleport({1.2416000366211;0.20657592773438;6.118523025512695}) 
   --Teleport({1.2416000366211;0.20657592773438;6.118523025512695}) 
 end
+
+function mryj()
+  
+  gg.toast("开始任务")
+  ydrw()
+  gg.sleep(2000)
+  ydpt()
+  gg.sleep(2000)
+  gg.toast("开始跑图")
+  gg.sleep(2000)
+  ydpt()
+  gg.sleep(2000)
+  
+
+end
