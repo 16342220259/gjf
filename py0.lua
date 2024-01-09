@@ -26,7 +26,7 @@ gg.addListItems({{address=sddz,flags=16,name='速度'}})
   csaddr = sddz  + 0x1834074--任意门>>> ✓
   Any_daddr =  sddz + 0x1834074
   
-dtaddr = sddz + 0x2CAC5CC ---地图判断>> ✓   
+dtaddr = sddz + 0x2CAC5CC  ---地图判断>> ✓   
 
 ydgypy = sddz + 0x2437D88---原地光翼>>> ✓  :l_CandleSpace_0 往前两个
   ydgyhqa = ydgypy + 0x58
