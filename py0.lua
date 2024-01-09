@@ -18,7 +18,7 @@ rwdz=rw4
 soo=so+0x188D000--cd
   gg.addListItems({{address = soo, flags = 32, name = 'soo'}})
 --1015 xa-cd=13A3000 ca-cb=13FB000
-sddz=addrjump(soo,0x15d60)+0x214
+sddz=addrjump(soo,0x15e98)+0x214
 gg.addListItems({{address=sddz,flags=16,name='速度'}})
 
 ------------核心偏移---------
